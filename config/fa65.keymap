@@ -33,7 +33,7 @@
 
         fn_layer {
             bindings = <
-&bootloader  &kp F1        &kp F2        &kp F3        &kp F4  &kp F5    &kp F6  &kp F7  &kp F8     &kp F9    &kp F10   &kp F11   &kp F12     &out OUT_TOG  &kp INS
+&kp GRAVE    &kp F1        &kp F2        &kp F3        &kp F4  &kp F5    &kp F6  &kp F7  &kp F8     &kp F9    &kp F10   &kp F11   &kp F12     &out OUT_TOG  &kp INS
 &bt BT_CLR   &bt BT_SEL 1  &bt BT_PRV    &bt BT_NXT    &kp R   &kp T     &kp Y   &kp U   &kp I      &kp O     &kp P     &kp LBKT  &kp RBKT    &kp BSLH      &kp DEL
 &kp CLCK     &out OUT_TOG  &out OUT_USB  &out OUT_BLE  &kp F   &kp G     &kp H   &kp J   &kp K      &kp L     &kp SEMI  &kp SQT               &bootloader   &kp PGUP
 &bootloader  &kp Z         &kp X         &kp C         &kp V   &kp B     &kp N   &kp M   &kp COMMA  &kp DOT   &kp FSLH            &kp RSHFT   &kp C_VOL_UP  &kp C_MUTE
